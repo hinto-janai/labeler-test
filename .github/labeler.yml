@@ -13,9 +13,6 @@ A-helper:
 A-net:
 - net/*
 
-A-net:
-- net/*
-
 A-p2p:
 - p2p/*
 
