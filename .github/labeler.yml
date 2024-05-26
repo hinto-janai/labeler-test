@@ -1,35 +1,35 @@
 A-consensus:
-- consensus/*
+- consensus/**
 
 A-cryptonight:
-- cryptonight/*
+- cryptonight/**
 
 A-database:
-- database/*
+- database/**
 
 A-helper:
-- helper/*
+- helper/**
 
 A-net:
-- net/*
+- net/**
 
 A-p2p:
-- p2p/*
+- p2p/**
 
 A-pruning:
-- pruning/*
+- pruning/**
 
 A-test-utils:
-- test-utils/*
+- test-utils/**
 
 A-types:
-- types/*
+- types/**
 
 A-workspace:
 - '*' # Any root file change
 
 A-ci:
-- .github/*
+- .github/**
 
 A-docs:
 - changed-files:
