@@ -2,7 +2,7 @@
 name: 📜 Proposal
 about: Propose an idea and request for comments
 title: ''
-labels: C-proposal
+labels: ["C-proposal"]
 assignees: ''
 
 ---

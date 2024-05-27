@@ -2,7 +2,7 @@
 name: ⏳ Discussion
 about: Start a discussion on a topic
 title: ''
-labels: C-discussion
+labels: ["C-discussion"]
 assignees: ''
 
 ---

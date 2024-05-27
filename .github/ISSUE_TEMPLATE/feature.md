@@ -2,7 +2,7 @@
 name: ✨ Feature request
 about: Request a feature
 title: ''
-labels: C-request
+labels: ["C-request"]
 assignees: ''
 
 ---
