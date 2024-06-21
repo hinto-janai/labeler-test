@@ -1,4 +1,12 @@
 <!--
+PR titles should be:
+<AREA>: <SHORT_DESCRIPTION>
+
+For example:
+books: fix typo
+-->
+
+<!--
 If your pull request is long and/or has sections
 that need clarifying, consider leaving a review on
 your own PR with comments explaining the changes.
