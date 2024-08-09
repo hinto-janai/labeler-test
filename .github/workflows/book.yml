@@ -1,9 +1,6 @@
 name: mdBook
 
 on:
-  push:
-    paths:
-      - 'book/test/**'
   pull_request:
     paths:
       - 'book/test/**'
