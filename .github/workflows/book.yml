@@ -2,10 +2,10 @@ name: mdBook
 
 on:
   push:
-    branches:
-      - main
-    paths:
-      - 'book/test/**'
+    branches: ['main']
+    paths: ['book/test/**']
+  pull_request:
+    paths: ['book/test/**']
   workflow_dispatch:
 
 env:
