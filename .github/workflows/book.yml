@@ -3,10 +3,10 @@ name: mdBook
 on:
   push:
     paths:
-      - 'books/test/**'
+      - 'book/test/**'
   pull_request:
     paths:
-      - 'books/test/**'
+      - 'book/test/**'
 
 env:
   # Version of `mdbook` to install.
