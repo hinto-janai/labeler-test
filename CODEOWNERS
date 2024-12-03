@@ -2,7 +2,8 @@
 # <https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners>
 
 # Default owner(s) of all code.
-* @Boog900 @hinto-janai
+#* @Boog900 @hinto-janai
+* @hinto-janai
 
 # hinto-janai
 /benches/**            @hinto-janai
@@ -16,4 +17,4 @@
 /test-utils/rpc/**     @hinto-janai
 
 # dimalinux
-/cryptonight/** @dimalinux
+#/cryptonight/** @dimalinux
